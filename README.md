@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jubayer Jumil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
