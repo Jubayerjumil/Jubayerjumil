@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)](https://rishavchanda.io)
+[![MasterHead](https://www.trickyenough.com/wp-content/uploads/2020/08/development-1536x1033.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jubayer Jumil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerjumil&show_icons=true&locale=en" alt="jubayerjumil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerjumil&" alt="jubayerjumil" /></p>
-
