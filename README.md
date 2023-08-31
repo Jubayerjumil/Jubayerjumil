@@ -1,6 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png))]
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jubayer Jumil</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh!</h3>
+<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayerjumil&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerjumil" /> </p>
 
